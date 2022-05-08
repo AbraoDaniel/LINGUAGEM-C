@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651711698 source:c:\users\abrao\onedrive\Área de trabalho\cursos\linguagem c\exercicio_media\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
